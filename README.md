@@ -1,10 +1,11 @@
 # Proyectos bootcamp Desarrollo Ruby on Rails
 
-## ¿Cómo funciona?
+## Proyecto:
+### Múltiples ejercicios 
 
-Cada desafío tiene una rama con su código finalizado.
+## Requerimientos 
 
-### 1. Desafío evaluado - Flujo ciclos y Métodos (I)
-
-[📝 Código](https://github.com/rohmedina/desafios_RUBY/tree/1_desafio_flujo_ciclos_metodos)
-
+- Se solicita mostrar los números pares mediante un ciclo while para los números comprendidos entre el 0 y el 20.
+- Se solicita mostrar los números impares mediante un ciclo while para los números comprendidos entre el 0 y el 20.
+- Mostrar la tabla de multiplicar del 0 hasta el 9, para ello puedes utilizar el ciclo for o while.
+- Haciendo uso de .times o el ciclo for dibuja un triángulo con el carácter que consideres más idóneo, pueden ser asteriscos (*) o numerales (#).
