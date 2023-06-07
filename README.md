@@ -19,3 +19,6 @@ Cada desafío tiene una rama con su código finalizado.
 [📝 Código](https://github.com/rohmedina/desafios_RUBY/tree/3_desafio_flujo_ciclos_metodos)
 
 
+### 5. Prueba - Introducción a la programación con Ruby
+
+[📝 Código](https://github.com/rohmedina/desafios_RUBY/tree/5_prueba_introduccion_programacion_ruby)
